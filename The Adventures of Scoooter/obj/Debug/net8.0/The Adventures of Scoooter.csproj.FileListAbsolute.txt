@@ -12,3 +12,4 @@ C:\Users\Scooo\source\repos\The Adventures of Scoooter\The Adventures of Scooote
 C:\Users\Scooo\source\repos\The Adventures of Scoooter\The Adventures of Scoooter\obj\Debug\net8.0\The Adventures of Scoooter.pdb
 C:\Users\Scooo\source\repos\The Adventures of Scoooter\The Adventures of Scoooter\obj\Debug\net8.0\The Adventures of Scoooter.genruntimeconfig.cache
 C:\Users\Scooo\source\repos\The Adventures of Scoooter\The Adventures of Scoooter\obj\Debug\net8.0\ref\The Adventures of Scoooter.dll
+C:\Users\Scooo\source\repos\The Adventures of Scoooter\The Adventures of Scoooter\obj\Debug\net8.0\The Adventures of Scoooter.sourcelink.json

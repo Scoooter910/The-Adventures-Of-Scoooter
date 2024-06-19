@@ -46,7 +46,7 @@ namespace The_Adventures_of_Scoooter
 
             Console.WriteLine($"Once upon a time in a kingdom far away, there was a legendary Hero named {hero1.Name}.");
             Console.WriteLine($"There was also a captured Princess named {princess1.Name}.");
-            Console.WriteLine($"As legend goes...the kingdom, and {princess1.Name} were threatened by a fercious dragon named {dragon1.Name}.");
+            Console.WriteLine($"As legend goes...the kingdom, and {princess1.Name} were threatened by a ferocious dragon named {dragon1.Name}.");
             Console.WriteLine($"In order to save {princess1.Name}, you must help {hero1.Name} defeat {dragon1.Name} and" +
                 $" restore peace to the kingdom.");
             Console.WriteLine($"You will not fight this battle alone. You have allies named {allies1.Name} and a knight named {knight1.Name} to" +
