@@ -8,6 +8,6 @@ namespace The_Adventures_of_Scoooter
 {
     public class Dragon : Character
     {
-        public string monsterAttack { get; set; } = "default";
+        public string MonsterAttack { get; set; } = "default";
     }
 }

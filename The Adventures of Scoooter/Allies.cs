@@ -8,6 +8,6 @@ namespace The_Adventures_of_Scoooter
 {
     internal class Allies : Character
     {
-        public string flyAbility { get; set; } = "default";
+        public string FlyAbility { get; set; } = "default";
     }
 }

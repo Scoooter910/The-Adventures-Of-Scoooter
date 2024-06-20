@@ -11,6 +11,7 @@ namespace The_Adventures_of_Scoooter
     {
         public string Weapon1 { get; set; } = "default";
         public string Weapon2 { get; set; } = "default";
-        public string ArrowType { get; set; } = "default";
+        public string ArrowType1 { get; set; } = "default";
+        public string ArrowType2 { get; set; } = "default";
     }
 }

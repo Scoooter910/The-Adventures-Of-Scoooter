@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Scooo\\source\\repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj": {}
+    "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Scooo\\source\\repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj": {
+    "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Scooo\\source\\repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj",
+        "projectUniqueName": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj",
         "projectName": "The Adventures of Scoooter",
-        "projectPath": "C:\\Users\\Scooo\\source\\repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj",
+        "projectPath": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\The Adventures of Scoooter.csproj",
         "packagesPath": "C:\\Users\\Scooo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Scooo\\source\\repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\obj\\",
+        "outputPath": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\The Adventures of Scoooter\\The Adventures of Scoooter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Scooo\\AppData\\Roaming\\NuGet\\NuGet.Config",
