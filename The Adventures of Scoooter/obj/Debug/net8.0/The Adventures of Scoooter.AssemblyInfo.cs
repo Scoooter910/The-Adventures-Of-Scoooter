@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Adventures of Scoooter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3ae578dd62a023cc8032e73eca4cf9ebe5bcb8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0a5c5b101a2728f46a4af4fd9039e6c2fac7d86")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Adventures of Scoooter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Adventures of Scoooter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

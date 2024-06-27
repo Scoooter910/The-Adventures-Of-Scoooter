@@ -9,6 +9,14 @@ namespace The_Adventures_of_Scoooter
 {
     internal class Knight : Character
     {
-        public string SpecialAbility { get; set; } = "default";
+        public string Dog {get; set; }
+        public string Cat { get; set; } 
+
+        public string DogSpecialAbility { get; set; } = "Bite";
+
+        public string CatSpecialAbility { get; set; } = "Claw";
+
+        public string DogName { get; set; } = "Sir Henry";
+        public string CatName { get; set; } = "Sir Carl";
     }
 }
